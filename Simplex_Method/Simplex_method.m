@@ -1,6 +1,6 @@
 % Simplex Method Code
 %%
-% Author: Xiping Yu
+% Author: Amoiensis
 % Data: 2019.10.01
 %%
 % Structure£¨Program Simplex_Method£©%
