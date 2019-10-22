@@ -3,9 +3,9 @@ Operational Research Algorithm Implement
 运筹学 算法实现
 ---------------------------------------
 
-Author:YXP
+Author:Amoiensis
 
-Email:yxp189@protonmail.com
+Email: Amoiensis@outlook.com
 
 Data:2019.10.02
 ***************************************************************
