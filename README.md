@@ -20,9 +20,11 @@ https://github.com/Amoiensis/Operational-Research
 
 1. [Simplex Method](https://github.com/Amoiensis/Operational-Research/tree/master/Simplex_Method)   单纯形法
 
-2. [Tabular Method](https://github.com/Amoiensis/Operational-Research/tree/master/Tabular_Method)   表上作业法
+2. [Dual Simplex Method](https://github.com/Amoiensis/Operational-Research/tree/master/Dual_Simplex_Method)   对偶单纯形法
 
-2. [Hungary Method](https://github.com/Amoiensis/Operational-Research/tree/master/Hungary_Method)   匈牙利法
+3. [Tabular Method](https://github.com/Amoiensis/Operational-Research/tree/master/Tabular_Method)   表上作业法
+
+4. [Hungary Method](https://github.com/Amoiensis/Operational-Research/tree/master/Hungary_Method)   匈牙利法
 
    
 OVERVIEW
